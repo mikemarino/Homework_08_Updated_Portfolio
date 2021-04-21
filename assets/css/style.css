@@ -5,6 +5,25 @@ font-family: 'PT Sans', sans-serif;
 */
 
 
+/* future color pallet 
+/*                  
+dark-ben-franklin #0f4d90
+ben-franklin-blue #2176d2
+light-ben-franklin #96c9ff
+electric-blue #25cef7
+bell-yellow #f3c613
+flyers-orange #f99300
+kelly-drive-green #58c04d
+light-bell #ffefa2
+light-red #fed0d0
+light-kelly-drive #b9f2b1
+light-blue #DAEDFE
+phanatic-green #3a833c
+love-park-red #cc3000
+pride-purple #9400c6
+*/
+
+
 body {
     --header-height: 50px;
 
@@ -154,7 +173,8 @@ body {
     vertical-align: middle;
     text-align: center;
     box-sizing: border-box;
-    border-radius: 25px;
+    border-radius: 10px;
+    border: solid black;
 
 }
 
